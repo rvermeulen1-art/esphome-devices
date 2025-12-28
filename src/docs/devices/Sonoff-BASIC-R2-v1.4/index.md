@@ -54,8 +54,8 @@ esp8266:
   board: esp8285
 
 wifi:
-  ssid: !secret wifi_ssid
-  password: !secret wifi_password
+  ssid: Vermeulen2.4
+  password: Joepie518!
 
 logger:
 api:
